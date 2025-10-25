@@ -1,7 +1,7 @@
 <div align="center">
 
-# Felix Onyango
-### Software Developer | Data Enthusiast | Enterprise Integration Specialist
+# Felix
+### Software Developer | Data Enthusiast | Enterprise Integration & Data Governance Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/Jaloch-glitch?label=Follow&style=social)](https://github.com/Jaloch-glitch)
 [![GitHub stars](https://img.shields.io/github/stars/Jaloch-glitch?label=Stars&style=social)](https://github.com/Jaloch-glitch)
@@ -12,7 +12,7 @@
 
 ## About Me
 
-Passionate **Software Developer** and **Data Enthusiast** specializing in enterprise integration, quantum physics visualization, and full-stack development. I create innovative solutions that bridge complex technical concepts with user-friendly applications, focusing on scalable enterprise systems and cutting-edge visualizations.
+Passionate **Software Developer** and **Data Enthusiast** specializing in enterprise integration, data governance, and full-stack development. I create innovative solutions that bridge complex technical concepts with user-friendly applications, focusing on scalable enterprise systems, data governance workflows, and advanced analytics platforms.
 
 ---
 
@@ -71,6 +71,7 @@ Cultural name generator web application computing traditional Akan names using J
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -81,7 +82,9 @@ Cultural name generator web application computing traditional Akan names using J
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Data Science & DevOps
+### Data Governance & Analytics
+![Collibra](https://img.shields.io/badge/-Collibra-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0ZGNkIzNSIvPjx0ZXh0IHg9IjEyIiB5PSIxNiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -105,7 +108,8 @@ Cultural name generator web application computing traditional Akan names using J
 
 I'm always interested in collaborating on innovative projects, especially those involving:
 - **Enterprise Integration** & **SAP Solutions**
-- **Quantum Physics Visualization** & **Educational Tools**
+- **Data Governance** & **Collibra Workflow Development**
+- **Big Data Analytics** & **Databricks Implementations**
 - **Data Science** & **Machine Learning Applications**
 - **Full-Stack Development** & **Modern Web Technologies**
 
