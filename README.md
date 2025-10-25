@@ -1,7 +1,7 @@
 <div align="center">
 
-# Felix
-### Software Developer | Data Enthusiast | Enterprise Integration & Data Governance Specialist
+# Felix Onyango - Software Developer
+### SAP Integration Specialist | Data Governance Expert | Full-Stack Developer | Collibra Consultant
 
 [![GitHub followers](https://img.shields.io/github/followers/Jaloch-glitch?label=Follow&style=social)](https://github.com/Jaloch-glitch)
 [![GitHub stars](https://img.shields.io/github/stars/Jaloch-glitch?label=Stars&style=social)](https://github.com/Jaloch-glitch)
@@ -10,9 +10,18 @@
 
 ---
 
-## About Me
+## About Felix Onyango - Enterprise Software Developer
 
-Passionate **Software Developer** and **Data Enthusiast** specializing in enterprise integration, data governance, and full-stack development. I create innovative solutions that bridge complex technical concepts with user-friendly applications, focusing on scalable enterprise systems, data governance workflows, and advanced analytics platforms.
+**Experienced Software Developer** and **SAP Integration Specialist** based in Kenya, with expertise in **enterprise data governance**, **Collibra implementations**, and **full-stack web development**.
+
+Specializing in:
+- **SAP Cloud Application Programming (CAP)** and enterprise integration solutions
+- **Collibra Data Governance** workflows and automation using **Groovy scripting**
+- **Databricks** big data analytics and **Python data science** implementations
+- **JavaScript**, **Node.js**, and **React** full-stack development
+- **Quantum physics visualization** and educational technology applications
+
+I create scalable enterprise solutions that transform complex business requirements into user-friendly applications, with a focus on data governance, workflow automation, and advanced analytics platforms.
 
 ---
 
@@ -123,10 +132,30 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 ---
 
+## Keywords & Expertise
+
+**Programming Languages:** JavaScript, Python, Groovy, HTML5, CSS3, SQL
+**Enterprise Platforms:** SAP, SAP CAP, Cloud Foundry, Docker, Collibra Data Governance
+**Analytics & Data:** Databricks, Apache Spark, Data Science, Machine Learning, Streamlit
+**Web Technologies:** Node.js, React, Full-Stack Development, REST APIs
+**Specializations:** Enterprise Integration, Data Governance Consultant, Workflow Automation
+**Location:** Kenya, East Africa | **Available for:** Remote Consulting, Enterprise Projects
+
+---
+
 <div align="center">
 
-*"Building solutions that make complex technology accessible and meaningful."*
+### Felix Onyango | Software Developer | SAP Consultant | Data Governance Expert
+
+*"Building enterprise solutions that transform complex technology into accessible business value."*
+
+**Connect on GitHub:** [@Jaloch-glitch](https://github.com/Jaloch-glitch)
+**Portfolio:** [Felix Onyango GitHub Profile](https://github.com/Jaloch-glitch)
 
 **Star my repositories if you find them useful!**
 
 </div>
+
+---
+
+<!-- SEO Keywords: Felix Onyango, Software Developer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Full-Stack Developer Kenya, Enterprise Integration, Groovy Developer, Python Data Science, JavaScript Developer, React Developer, Node.js Developer, CAP Developer, Cloud Foundry, Docker, Enterprise Software, Data Analytics, Machine Learning, Web Development, Remote Developer Africa -->
