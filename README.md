@@ -26,6 +26,9 @@ Passionate **Software Developer** and **Data Enthusiast** specializing in enterp
 **[Claude Proxy](https://github.com/Jaloch-glitch/claude_proxy)**
 Claude API proxy server with SAP integration capabilities, OAuth2 authentication, and Cloud Foundry deployment support.
 
+**[Risk Management CAP](https://github.com/Jaloch-glitch/riskmanagement)**
+SAP Cloud Application Programming (CAP) project implementing enterprise risk management business processes with Node.js backend.
+
 **[Development Configurations](https://github.com/Jaloch-glitch/my-dev-configurations)**
 Professional development environment configuration management system with automated Git account separation and workflow automation.
 
@@ -79,6 +82,7 @@ Cultural name generator web application computing traditional Akan names using J
 
 ### Enterprise & Cloud
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/-SAP%20CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
