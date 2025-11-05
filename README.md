@@ -1,7 +1,7 @@
 <div align="center">
 
 # Felix Onyango - Software Developer
-### SAP Integration Specialist | Data Governance Expert | Full-Stack Developer | Collibra Consultant
+### SAP Integration Specialist | ML Engineer | Data Governance Expert | Full-Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Jaloch-glitch?label=Follow&style=social)](https://github.com/Jaloch-glitch)
 [![GitHub stars](https://img.shields.io/github/stars/Jaloch-glitch?label=Stars&style=social)](https://github.com/Jaloch-glitch)
@@ -54,6 +54,9 @@ Interactive quantum physics visualization with dynamic theming, educational cont
 <td width="50%">
 
 ### Data Science & AI
+**[Micrograd - Neural Network Engine](https://github.com/Jaloch-glitch/micrograd)**
+Manual implementation of automatic differentiation and gradient descent for neural networks. Built from scratch to understand backpropagation fundamentals in deep learning.
+
 **[Knowledge Graph Algorithm](https://github.com/Jaloch-glitch/knowlege_graph_algorithm)**
 Implementation of knowledge graph algorithms demonstrating relationship mapping and data connectivity patterns.
 
@@ -102,6 +105,13 @@ Cultural name generator web application computing traditional Akan names using J
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Gradient Descent](https://img.shields.io/badge/-Gradient%20Descent-00C853?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTMgMThMMTIgNkwyMSAxOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white)
+![Backpropagation](https://img.shields.io/badge/-Backpropagation-9C27B0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+&logoColor=white)
+
 </div>
 
 ---
@@ -137,8 +147,9 @@ I'm always interested in collaborating on innovative projects, especially those 
 **Programming Languages:** JavaScript, Python, Groovy, HTML5, CSS3, SQL
 **Enterprise Platforms:** SAP, SAP CAP, Cloud Foundry, Docker, Collibra Data Governance
 **Analytics & Data:** Databricks, Apache Spark, Data Science, Machine Learning, Streamlit
+**Machine Learning:** Neural Networks, Gradient Descent, Backpropagation, Deep Learning, PyTorch, NumPy, Automatic Differentiation
 **Web Technologies:** Node.js, React, Full-Stack Development, REST APIs
-**Specializations:** Enterprise Integration, Data Governance Consultant, Workflow Automation
+**Specializations:** Enterprise Integration, Data Governance Consultant, Workflow Automation, ML Engineering
 **Location:** Kenya, East Africa | **Available for:** Remote Consulting, Enterprise Projects
 
 ---
@@ -158,4 +169,4 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 ---
 
-<!-- SEO Keywords: Felix Onyango, Software Developer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Full-Stack Developer Kenya, Enterprise Integration, Groovy Developer, Python Data Science, JavaScript Developer, React Developer, Node.js Developer, CAP Developer, Cloud Foundry, Docker, Enterprise Software, Data Analytics, Machine Learning, Web Development, Remote Developer Africa -->
+<!-- SEO Keywords: Felix Onyango, Software Developer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Full-Stack Developer Kenya, Enterprise Integration, Groovy Developer, Python Data Science, JavaScript Developer, React Developer, Node.js Developer, CAP Developer, Cloud Foundry, Docker, Enterprise Software, Data Analytics, Machine Learning, Neural Networks, Deep Learning, Gradient Descent, Backpropagation, PyTorch, NumPy, Micrograd, Automatic Differentiation, ML Engineer, Web Development, Remote Developer Africa -->
