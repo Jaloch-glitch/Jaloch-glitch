@@ -60,6 +60,9 @@ Manual implementation of automatic differentiation and gradient descent for neur
 **[Makemore - Character-Level Language Model](https://github.com/Jaloch-glitch/makemore)**
 Character-level bigram neural network for name generation using PyTorch. Implements probability distributions, gradient descent optimization, and demonstrates fundamental concepts in natural language processing and generative modeling.
 
+**[Makemore Part 2 - Multi-Layer Perceptron Language Model](https://github.com/Jaloch-glitch/makemore2)**
+Advanced character-level language model using multi-layer perceptron (MLP) with embeddings. Features 3-character context windows, hidden layers with tanh activation, mini-batch training, and proper train/dev/test splits. Demonstrates deep learning fundamentals including word embeddings, learning rate tuning, and embedding visualization.
+
 **[Knowledge Graph Algorithm](https://github.com/Jaloch-glitch/knowlege_graph_algorithm)**
 Implementation of knowledge graph algorithms demonstrating relationship mapping and data connectivity patterns.
 
@@ -150,7 +153,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 **Programming Languages:** JavaScript, Python, Groovy, HTML5, CSS3, SQL
 **Enterprise Platforms:** SAP, SAP CAP, Cloud Foundry, Docker, Collibra Data Governance
 **Analytics & Data:** Databricks, Apache Spark, Data Science, Machine Learning, Streamlit
-**Machine Learning:** Neural Networks, Gradient Descent, Backpropagation, Deep Learning, PyTorch, NumPy, Automatic Differentiation, Natural Language Processing, Character-Level Language Models, Generative Modeling
+**Machine Learning:** Neural Networks, Gradient Descent, Backpropagation, Deep Learning, PyTorch, NumPy, Automatic Differentiation, Natural Language Processing, Character-Level Language Models, Generative Modeling, Multi-Layer Perceptron (MLP), Word Embeddings, Character Embeddings, Mini-Batch Training, Learning Rate Tuning, Train/Dev/Test Split, Embedding Visualization
 **Web Technologies:** Node.js, React, Full-Stack Development, REST APIs
 **Specializations:** Enterprise Integration, Data Governance Consultant, Workflow Automation, ML Engineering
 **Location:** Kenya, East Africa | **Available for:** Remote Consulting, Enterprise Projects
@@ -172,4 +175,4 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 ---
 
-<!-- SEO Keywords: Felix Onyango, Software Developer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Full-Stack Developer Kenya, Enterprise Integration, Groovy Developer, Python Data Science, JavaScript Developer, React Developer, Node.js Developer, CAP Developer, Cloud Foundry, Docker, Enterprise Software, Data Analytics, Machine Learning, Neural Networks, Deep Learning, Gradient Descent, Backpropagation, PyTorch, NumPy, Micrograd, Makemore, Automatic Differentiation, Natural Language Processing, NLP, Character-Level Language Models, Generative Modeling, Bigram Models, ML Engineer, Web Development, Remote Developer Africa -->
+<!-- SEO Keywords: Felix Onyango, Software Developer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Full-Stack Developer Kenya, Enterprise Integration, Groovy Developer, Python Data Science, JavaScript Developer, React Developer, Node.js Developer, CAP Developer, Cloud Foundry, Docker, Enterprise Software, Data Analytics, Machine Learning, Neural Networks, Deep Learning, Gradient Descent, Backpropagation, PyTorch, NumPy, Micrograd, Makemore, Makemore Part 2, Multi-Layer Perceptron, MLP, Word Embeddings, Character Embeddings, Automatic Differentiation, Natural Language Processing, NLP, Character-Level Language Models, Generative Modeling, Bigram Models, Mini-Batch Training, Learning Rate Tuning, Embedding Visualization, ML Engineer, Web Development, Remote Developer Africa -->
