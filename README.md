@@ -36,7 +36,7 @@ class Felix:
     origin = "Kenya"              # Roots
     timezone = "CET (UTC+1)"      # For async collaboration
 
-    by_day = ["SAP Integration", "Data Governance", "Collibra", "Enterprise Systems"]
+    by_day = ["SAP Integration", "Datasphere", "Analytics Cloud", "Collibra", "Data Governance"]
     by_night = ["Neural Networks", "PyTorch", "Building GPT from scratch"]
 
     philosophy = "Ask 'why' until the abstractions dissolve"
@@ -110,11 +110,13 @@ drwxr-xr-x  ml_stack/
     └── jupyter       [################----]   80%   Interactive dev
 
 drwxr-xr-x  enterprise/
-    ├── sap           [####################]  100%   Integration specialist
-    ├── sap_cap       [################----]   80%   Cloud Application Programming
-    ├── collibra      [####################]  100%   Data governance guru
-    ├── databricks    [################----]   80%   Big data analytics
-    └── cloud_foundry [############--------]   60%   Deployments
+    ├── sap               [####################]  100%   Integration specialist
+    ├── sap_cap           [################----]   80%   Cloud Application Programming
+    ├── sap_datasphere    [################----]   80%   Data warehousing & modeling
+    ├── sap_analytics     [################----]   80%   SAC stories & dashboards
+    ├── collibra          [####################]  100%   Data governance guru
+    ├── databricks        [################----]   80%   Big data analytics
+    └── cloud_foundry     [############--------]   60%   Deployments
 ```
 
 ---
