@@ -1,181 +1,211 @@
 <div align="center">
 
-# Felix Onyango - Software Developer
-### SAP Integration Specialist | ML Engineer | Data Governance Expert | Full-Stack Developer
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felix%20Onyango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20SAP%20Specialist%20%7C%20Building%20Intelligence&descAlignY=52&descSize=18"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Jaloch-glitch?label=Follow&style=social)](https://github.com/Jaloch-glitch)
-[![GitHub stars](https://img.shields.io/github/stars/Jaloch-glitch?label=Stars&style=social)](https://github.com/Jaloch-glitch)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Neural+Networks+from+Scratch;Enterprise+Data+Governance+Expert;Turning+Coffee+into+Code+%E2%98%95;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+
+<!-- Profile Views & Social -->
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Jaloch-glitch&style=for-the-badge&color=58a6ff"/>
+&nbsp;
+<a href="https://github.com/Jaloch-glitch?tab=followers"><img src="https://img.shields.io/github/followers/Jaloch-glitch?style=for-the-badge&color=58a6ff&labelColor=1a1b27"/></a>
+&nbsp;
+<a href="https://github.com/Jaloch-glitch"><img src="https://img.shields.io/github/stars/Jaloch-glitch?style=for-the-badge&color=58a6ff&labelColor=1a1b27"/></a>
 
 </div>
 
----
+<br/>
 
-## About Felix Onyango - Enterprise Software Developer
+<!-- About Section with Emoji -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-**Experienced Software Developer** and **SAP Integration Specialist** based in Kenya, with expertise in **enterprise data governance**, **Collibra implementations**, and **full-stack web development**.
+```python
+class Felix:
+    def __init__(self):
+        self.name = "Felix Onyango"
+        self.location = "Kenya, East Africa"
+        self.role = "ML Engineer & SAP Specialist"
 
-Specializing in:
-- **SAP Cloud Application Programming (CAP)** and enterprise integration solutions
-- **Collibra Data Governance** workflows and automation using **Groovy scripting**
-- **Databricks** big data analytics and **Python data science** implementations
-- **JavaScript**, **Node.js**, and **React** full-stack development
-- **Quantum physics visualization** and educational technology applications
+        self.current_focus = [
+            "Neural Networks from Scratch (Karpathy's Zero to Hero)",
+            "Enterprise Data Governance with Collibra",
+            "Building AI-powered solutions"
+        ]
 
-I create scalable enterprise solutions that transform complex business requirements into user-friendly applications, with a focus on data governance, workflow automation, and advanced analytics platforms.
+        self.daily_tools = ["Python", "PyTorch", "SAP CAP", "Databricks"]
 
----
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together.")
 
-## Featured Projects
+me = Felix()
+me.say_hi()
+```
+
+<br/>
+
+<!-- Current Learning Journey -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" /> Current Learning Journey
 
 <table>
 <tr>
 <td width="50%">
 
-### Enterprise Integration
-**[Claude Proxy](https://github.com/Jaloch-glitch/claude_proxy)**
-Claude API proxy server with SAP integration capabilities, OAuth2 authentication, and Cloud Foundry deployment support.
+### Neural Networks: Zero to Hero
+*Following Andrej Karpathy's legendary series*
 
-**[Risk Management CAP](https://github.com/Jaloch-glitch/riskmanagement)**
-SAP Cloud Application Programming (CAP) project implementing enterprise risk management business processes with Node.js backend.
-
-**[Development Configurations](https://github.com/Jaloch-glitch/my-dev-configurations)**
-Professional development environment configuration management system with automated Git account separation and workflow automation.
-
-</td>
-<td width="50%">
-
-### Science & Visualization
-**[AK!13 Double Slit Experiment](https://github.com/Jaloch-glitch/ak13-double-slit-experiment)**
-Interactive quantum physics visualization with dynamic theming, educational content, and real-time wave interference patterns.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Data Science & AI
-**[Micrograd - Neural Network Engine](https://github.com/Jaloch-glitch/micrograd)**
-Manual implementation of automatic differentiation and gradient descent for neural networks. Built from scratch to understand backpropagation fundamentals in deep learning.
-
-**[Makemore - Character-Level Language Model](https://github.com/Jaloch-glitch/makemore)**
-Character-level bigram neural network for name generation using PyTorch. Implements probability distributions, gradient descent optimization, and demonstrates fundamental concepts in natural language processing and generative modeling.
-
-**[Makemore Part 2 - Multi-Layer Perceptron Language Model](https://github.com/Jaloch-glitch/makemore2)**
-Advanced character-level language model using multi-layer perceptron (MLP) with embeddings. Features 3-character context windows, hidden layers with tanh activation, mini-batch training, and proper train/dev/test splits. Demonstrates deep learning fundamentals including word embeddings, learning rate tuning, and embedding visualization.
-
-**[Makemore Part 3 - Batch Normalization & Activations](https://github.com/Jaloch-glitch/makemore_3)**
-Deep dive into neural network internals: batch normalization, activation function analysis, and training dynamics. Following Andrej Karpathy's neural networks series to understand the mechanics of modern deep learning architectures.
-
-**[Knowledge Graph Algorithm](https://github.com/Jaloch-glitch/knowlege_graph_algorithm)**
-Implementation of knowledge graph algorithms demonstrating relationship mapping and data connectivity patterns.
-
-**[Data Science Projects](https://github.com/Jaloch-glitch/datascience)**
-Microsoft Data Science coursework featuring machine learning algorithms and statistical modeling implementations.
+| Part | Topic | Status |
+|:----:|-------|:------:|
+| 1 | [Micrograd](https://github.com/Jaloch-glitch/micrograd) - Autograd Engine | ✅ |
+| 2 | [Makemore](https://github.com/Jaloch-glitch/makemore) - Bigram Model | ✅ |
+| 3 | [Makemore 2](https://github.com/Jaloch-glitch/makemore2) - MLP | ✅ |
+| 4 | [Makemore 3](https://github.com/Jaloch-glitch/makemore_3) - Activations | ✅ |
+| 5 | Batch Normalization | 🔄 |
+| 6 | Wavenet | 📋 |
+| 7 | GPT from Scratch | 📋 |
 
 </td>
 <td width="50%">
 
-### Web Development
-**[Pizza Hut Online Ordering](https://github.com/Jaloch-glitch/pizzahut)**
-Interactive pizza ordering website with responsive design and user-friendly interface.
+### Deep-ML Practice
+*Daily problem solving for ML mastery*
 
-**[Akan Names Generator](https://github.com/Jaloch-glitch/Akan-Names)**
-Cultural name generator web application computing traditional Akan names using JavaScript algorithms.
+<a href="https://github.com/Jaloch-glitch/deep_ML">
+<img src="https://img.shields.io/badge/Problems_Solved-14+-58a6ff?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+**Recent Topics:**
+- Matrix Transformations (T⁻¹AS)
+- Eigenvalues & Eigenvectors
+- Gradient Descent Optimization
+- Cross-Entropy Loss
+- Batch Normalization Math
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Technical Expertise
+<!-- Tech Stack with Animations -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+</p>
+
+### ML & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ### Enterprise & Cloud
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP CAP](https://img.shields.io/badge/-SAP%20CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Collibra-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,nodejs,react&theme=dark" />
+</p>
 
-### Data Governance & Analytics
-![Collibra](https://img.shields.io/badge/-Collibra-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0ZGNkIzNSIvPjx0ZXh0IHg9IjEyIiB5PSIxNiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Gradient Descent](https://img.shields.io/badge/-Gradient%20Descent-00C853?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTMgMThMMTIgNkwyMSAxOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white)
-![Backpropagation](https://img.shields.io/badge/-Backpropagation-9C27B0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+&logoColor=white)
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 
 </div>
 
----
+<br/>
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaloch-glitch&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaloch-glitch&layout=compact&theme=github_dark"/>
-</div>
-
----
-
-## Connect & Collaborate
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects, especially those involving:
-- **Enterprise Integration** & **SAP Solutions**
-- **Data Governance** & **Collibra Workflow Development**
-- **Big Data Analytics** & **Databricks Implementations**
-- **Data Science** & **Machine Learning Applications**
-- **Full-Stack Development** & **Modern Web Technologies**
-
-**Let's build something amazing together!**
+<a href="https://github.com/Jaloch-glitch/micrograd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=micrograd&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+<a href="https://github.com/Jaloch-glitch/makemore_3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=makemore_3&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+<a href="https://github.com/Jaloch-glitch/deep_ML">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=deep_ML&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+<a href="https://github.com/Jaloch-glitch/claude_proxy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=claude_proxy&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## Keywords & Expertise
-
-**Programming Languages:** JavaScript, Python, Groovy, HTML5, CSS3, SQL
-**Enterprise Platforms:** SAP, SAP CAP, Cloud Foundry, Docker, Collibra Data Governance
-**Analytics & Data:** Databricks, Apache Spark, Data Science, Machine Learning, Streamlit
-**Machine Learning:** Neural Networks, Gradient Descent, Backpropagation, Deep Learning, PyTorch, NumPy, Automatic Differentiation, Natural Language Processing, Character-Level Language Models, Generative Modeling, Multi-Layer Perceptron (MLP), Word Embeddings, Character Embeddings, Mini-Batch Training, Learning Rate Tuning, Train/Dev/Test Split, Embedding Visualization, Batch Normalization, Activation Functions
-**Web Technologies:** Node.js, React, Full-Stack Development, REST APIs
-**Specializations:** Enterprise Integration, Data Governance Consultant, Workflow Automation, ML Engineering
-**Location:** Kenya, East Africa | **Available for:** Remote Consulting, Enterprise Projects
-
----
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
 
 <div align="center">
 
-### Felix Onyango | Software Developer | SAP Consultant | Data Governance Expert
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jaloch-glitch&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jaloch-glitch&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="49%"/>
 
-*"Building enterprise solutions that transform complex technology into accessible business value."*
+<!-- Languages & Activity -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaloch-glitch&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" width="40%"/>
 
-**Connect on GitHub:** [@Jaloch-glitch](https://github.com/Jaloch-glitch)
-**Portfolio:** [Felix Onyango GitHub Profile](https://github.com/Jaloch-glitch)
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaloch-glitch&theme=tokyo-night&hide_border=true&radius=16" width="98%"/>
 
-**Star my repositories if you find them useful!**
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Jaloch-glitch&theme=tokyonight&no-frame=true&row=1&column=7" width="98%"/>
 
 </div>
 
----
+<br/>
 
-<!-- SEO Keywords: Felix Onyango, Software Developer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Full-Stack Developer Kenya, Enterprise Integration, Groovy Developer, Python Data Science, JavaScript Developer, React Developer, Node.js Developer, CAP Developer, Cloud Foundry, Docker, Enterprise Software, Data Analytics, Machine Learning, Neural Networks, Deep Learning, Gradient Descent, Backpropagation, PyTorch, NumPy, Micrograd, Makemore, Makemore Part 2, Multi-Layer Perceptron, MLP, Word Embeddings, Character Embeddings, Automatic Differentiation, Natural Language Processing, NLP, Character-Level Language Models, Generative Modeling, Bigram Models, Mini-Batch Training, Learning Rate Tuning, Embedding Visualization, ML Engineer, Web Development, Remote Developer Africa -->
+<!-- Snake Animation -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaloch-glitch/Jaloch-glitch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaloch-glitch/Jaloch-glitch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jaloch-glitch/Jaloch-glitch/output/github-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+<!-- Connect Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
+
+<div align="center">
+
+<a href="mailto:jalochfelix@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Jaloch-glitch">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Open to collaborations on:**
+
+`Neural Networks` `Deep Learning` `SAP Integration` `Data Governance` `Open Source`
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<!-- SEO Keywords (Hidden) -->
+<!-- Felix Onyango, ML Engineer Kenya, SAP Integration Specialist, Collibra Consultant, Data Governance Expert, Databricks Developer, Neural Networks, Deep Learning, PyTorch, Andrej Karpathy, Makemore, Micrograd, Full-Stack Developer Kenya, Enterprise Integration, Python Data Science, Machine Learning Engineer Africa -->
