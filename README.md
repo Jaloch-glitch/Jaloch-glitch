@@ -15,8 +15,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jaloch-glitch&style=flat-square&color=0a6ed1)](https://github.com/Jaloch-glitch)
-[![Followers](https://img.shields.io/github/followers/Jaloch-glitch?style=flat-square&color=0a6ed1&label=followers)](https://github.com/Jaloch-glitch?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jaloch-glitch&style=flat-square&color=58a6ff)](https://github.com/Jaloch-glitch)
+[![Followers](https://img.shields.io/github/followers/Jaloch-glitch?style=flat-square&color=58a6ff&label=followers)](https://github.com/Jaloch-glitch?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Jaloch-glitch?style=flat-square&color=58a6ff&label=stars)](https://github.com/Jaloch-glitch)
 
 </div>
 
@@ -33,37 +34,62 @@ class Felix:
 
     location = "Germany"          # Living
     origin = "Kenya"              # Roots
+    timezone = "CET (UTC+1)"      # For async collaboration
 
     by_day = ["SAP Integration", "Data Governance", "Collibra", "Enterprise Systems"]
     by_night = ["Neural Networks", "PyTorch", "Building GPT from scratch"]
 
     philosophy = "Ask 'why' until the abstractions dissolve"
+
+    def current_mass_obsession(self):
+        return "Understanding backpropagation so well I dream in gradients"
 ```
 
 ---
 
-### `> cat current_mission.txt`
-
-Following **Andrej Karpathy's Neural Networks: Zero to Hero** — not watching, *implementing*.
+### `> systemctl status learning.service`
 
 ```
-PROGRESS
-════════════════════════════════════════════════════════════════
-
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░] 57%
-
-Part 1  [DONE]     Micrograd ──────────── Autograd engine from scratch
-Part 2  [DONE]     Makemore ───────────── Bigram language model
-Part 3  [DONE]     Makemore 2 ─────────── MLP with embeddings
-Part 4  [DONE]     Makemore 3 ─────────── Activations & gradients
-Part 5  [ACTIVE]   BatchNorm ──────────── Normalizing activations
-Part 6  [QUEUED]   Wavenet ────────────── Dilated convolutions
-Part 7  [QUEUED]   GPT ────────────────── The goal
-
-════════════════════════════════════════════════════════════════
+● learning.service - Neural Networks: Zero to Hero
+     Loaded: loaded (/karpathy/nn-zero-to-hero; enabled)
+     Active: active (running) since 2024
+       Docs: https://youtube.com/@AndrejKarpathy
+    Process: implementing, not just watching
+     Memory: full of matrix multiplications
 ```
 
-**Side quest:** [Deep-ML daily problems](https://github.com/Jaloch-glitch/deep_ML) — matrix ops, eigenvalues, loss functions
+```
+MISSION PROGRESS
+════════════════════════════════════════════════════════════════════════
+
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░░░░░░░░░░░░░] 57% ████▌
+
+Part 1  [████] DONE     Micrograd ─────────── Autograd engine from scratch
+Part 2  [████] DONE     Makemore ──────────── Bigram language model
+Part 3  [████] DONE     Makemore 2 ────────── MLP with embeddings
+Part 4  [████] DONE     Makemore 3 ────────── Activations & gradients
+Part 5  [▓▓░░] ACTIVE   BatchNorm ─────────── Normalizing activations
+Part 6  [░░░░] QUEUED   Wavenet ───────────── Dilated convolutions
+Part 7  [░░░░] QUEUED   GPT ───────────────── The endgame
+
+════════════════════════════════════════════════════════════════════════
+            "What I cannot create, I do not understand." — Feynman
+════════════════════════════════════════════════════════════════════════
+```
+
+---
+
+### `> tail -f /var/log/side_quests.log`
+
+```
+[2026-01-25 01:30:42] Solved: Matrix transformation T⁻¹AS
+[2026-01-24 23:15:00] Learned: Why matrices must be invertible (det ≠ 0)
+[2026-01-24 20:00:00] Pattern acquired: zip(*matrix) for transpose
+[2026-01-23 19:30:00] Aha moment: Learning rate decay isn't magic, it's coarse-to-fine
+[2026-01-22 21:00:00] Debugged: Vanishing gradients in tanh saturation
+```
+
+**[Deep-ML Daily Practice](https://github.com/Jaloch-glitch/deep_ML)** — 14+ problems and counting
 
 ---
 
@@ -71,24 +97,24 @@ Part 7  [QUEUED]   GPT ────────────────── Th
 
 ```
 drwxr-xr-x  languages/
-    ├── python        ████████████████████  Primary weapon
-    ├── javascript    ████████████████░░░░  Full-stack work
-    ├── typescript    ████████████░░░░░░░░  Growing
-    ├── groovy        ████████████████░░░░  Collibra workflows
-    └── sql           ████████████████░░░░  Data wrangling
+    ├── python        [####################]  100%   Primary weapon
+    ├── javascript    [################----]   80%   Full-stack work
+    ├── typescript    [############--------]   60%   Growing
+    ├── groovy        [################----]   80%   Collibra workflows
+    └── sql           [################----]   80%   Data wrangling
 
 drwxr-xr-x  ml_stack/
-    ├── pytorch       ████████████████░░░░  Building things from scratch
-    ├── numpy         ████████████████████  Daily driver
-    ├── pandas        ████████████████░░░░  Data manipulation
-    └── matplotlib    ████████████░░░░░░░░  Visualizations
+    ├── pytorch       [################----]   80%   Building from scratch
+    ├── numpy         [####################]  100%   The sandwich pattern
+    ├── pandas        [################----]   80%   Data manipulation
+    └── jupyter       [################----]   80%   Interactive dev
 
 drwxr-xr-x  enterprise/
-    ├── sap           ████████████████████  Integration specialist
-    ├── sap_cap       ████████████████░░░░  Cloud Application Programming
-    ├── collibra      ████████████████████  Data governance
-    ├── databricks    ████████████████░░░░  Big data analytics
-    └── cloud_foundry ████████████░░░░░░░░  Deployments
+    ├── sap           [####################]  100%   Integration specialist
+    ├── sap_cap       [################----]   80%   Cloud Application Programming
+    ├── collibra      [####################]  100%   Data governance guru
+    ├── databricks    [################----]   80%   Big data analytics
+    └── cloud_foundry [############--------]   60%   Deployments
 ```
 
 ---
@@ -115,7 +141,7 @@ drwxr-xr-x  enterprise/
 
 ---
 
-### `> git log --oneline --graph stats`
+### `> git log --oneline --graph metrics`
 
 <div align="center">
 
@@ -128,34 +154,45 @@ drwxr-xr-x  enterprise/
 
 ---
 
-### `> cat philosophy.md`
+### `> cat /etc/felix/learning_protocol.conf`
 
-```markdown
-## How I Learn
+```ini
+[philosophy]
+approach = "first_principles"
+motto = "If you can't implement it, you don't understand it"
+questions = "why > how"
 
-1. Watch the lecture
-2. Close the video
-3. Implement from memory
-4. Get stuck
-5. Ask "why does this work?" not "how do I fix this?"
-6. Rebuild until it clicks
+[method]
+step_1 = "Watch the lecture"
+step_2 = "Close the video"
+step_3 = "Implement from memory"
+step_4 = "Get stuck"
+step_5 = "Ask 'why does this work?' not 'how do I fix this?'"
+step_6 = "Rebuild until it clicks"
 
-The goal isn't to finish the series.
-The goal is to understand so deeply I could teach it.
+[goal]
+short_term = "Understand every line of makemore"
+long_term = "Build GPT from scratch and actually get it"
+ultimate = "Understand so deeply I could teach a 5-year-old"
 ```
 
 ---
 
-### `> echo $CONTACT`
+### `> cat ~/.signature`
 
 ```
-╔════════════════════════════════════════════════╗
-║  Email:    jalochfelix@gmail.com               ║
-║  GitHub:   @Jaloch-glitch                      ║
-║  Location: Germany (Kenyan roots)              ║
-╚════════════════════════════════════════════════╝
-
-Open to: ML collaborations, enterprise projects, interesting problems
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   Felix Onyango                                                           ║
+║   ─────────────────────────────────────────────────────────────────────   ║
+║   Email:     jalochglitch@gmail.com                                       ║
+║   GitHub:    github.com/Jaloch-glitch                                     ║
+║   Location:  Germany (Kenyan roots)                                       ║
+║   Timezone:  CET (UTC+1)                                                  ║
+║                                                                           ║
+║   Open to:   ML collaborations • Enterprise projects • Hard problems      ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -163,10 +200,11 @@ Open to: ML collaborations, enterprise projects, interesting problems
 <div align="center">
 
 ```
-"The best way to predict the future is to create it."
-                                    — Peter Drucker
+┌─────────────────────────────────────────────────────────────────────────┐
+│  "The best way to predict the future is to create it." — Peter Drucker │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-*Last updated: Sat Jan 25 01:55:42 CET 2026*
+**EOF**
 
 </div>
