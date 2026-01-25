@@ -8,7 +8,7 @@
 │     ██║     ███████╗███████╗██║██╔╝ ██╗                                      │
 │     ╚═╝     ╚══════╝╚══════╝╚═╝╚═╝  ╚═╝                                      │
 │                                                                              │
-│     Kenyan in Germany | ML from First Principles | Compliance by Day         │
+│     Kenya → Germany | Deriving gradients, not importing them                 │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -29,22 +29,41 @@
 class Felix:
     """
     Software engineer who believes understanding beats memorization.
-    If you can't build it from scratch, you don't truly get it.
+    What I cannot create, I do not understand.
     """
 
-    location = "Germany"          # Living
-    origin = "Kenya"              # Roots
-    timezone = "CET (UTC+1)"      # For async collaboration
+    location = "Germany"
+    origin = "Kenya"
+    timezone = "CET (UTC+1)"
 
-    by_day = ["Info Security Compliance", "IT Asset Management", "Data Governance"]
-    by_night = ["Neural Networks", "PyTorch", "Building GPT from scratch"]
+    by_day = "InfoSec Compliance & Data Governance"
+    by_night = "Building neural networks from scratch"
 
     philosophy = "Ask 'why' until the abstractions dissolve"
 
-    currently_reading = ["Kafka", "Orwell", "McCarthy"]  # Precision under constraint
+    currently_reading = ["Kafka", "Orwell", "McCarthy"]
+    # Writers who make every word earn its place
 
-    def current_mass_obsession(self):
-        return "Understanding backpropagation so well I dream in gradients"
+    def approach(self, problem):
+        while not understood_from_first_principles(problem):
+            ask_why()
+            derive_it_myself()
+            validate_against_known_implementation()
+        return deep_understanding
+```
+
+---
+
+### `> diff felix others`
+
+```diff
++ Derived backpropagation from limit definitions, validated against TensorFlow
++ 5-6 hours per Karpathy video — implementing, not just watching
++ Built 25+ production workflows in enterprise data governance
++ Same rigor whether the deadline is compliance audit or gradient descent
+- Tutorial following
+- "It works, ship it"
+- Surface-level understanding
 ```
 
 ---
@@ -56,8 +75,8 @@ class Felix:
      Loaded: loaded (/karpathy/nn-zero-to-hero; enabled)
      Active: active (running) since 2024
        Docs: https://youtube.com/@AndrejKarpathy
-    Process: implementing, not just watching
-     Memory: full of matrix multiplications
+    Process: implementing from memory after each video
+     Memory: matrix multiplications and chain rules
 ```
 
 ```
@@ -66,7 +85,7 @@ MISSION PROGRESS
 
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░░░░░░░░░░░░░] 57% ████▌
 
-Part 1  [████] DONE     Micrograd ─────────── Autograd engine from scratch
+Part 1  [████] DONE     Micrograd ─────────── Autograd from first principles
 Part 2  [████] DONE     Makemore ──────────── Bigram language model
 Part 3  [████] DONE     Makemore 2 ────────── MLP with embeddings
 Part 4  [████] DONE     Makemore 3 ────────── Activations & gradients
@@ -75,50 +94,84 @@ Part 6  [░░░░] QUEUED   Wavenet ───────────── 
 Part 7  [░░░░] QUEUED   GPT ───────────────── The endgame
 
 ════════════════════════════════════════════════════════════════════════
-            "What I cannot create, I do not understand." — Feynman
+```
+
+<details>
+<summary><b>What "DONE" actually means</b></summary>
+
+```
+Not: watched the video
+Not: copied the code
+
+Actually:
+├── Implemented from scratch without looking
+├── Derived the math by hand (pen + paper)
+├── Validated against production frameworks
+├── Can explain it to someone else
+└── Can rebuild it tomorrow from memory
+```
+
+</details>
+
+---
+
+### `> tail -f /var/log/recent.log`
+
+```
+[2026-01-25 01:30:42] Solved: Matrix transformation T⁻¹AS (Deep-ML)
+[2026-01-24 23:15:00] Insight: Invertibility requires det ≠ 0 — geometry clicked
+[2026-01-24 20:00:00] Reading: Kafka — paranoia as structure
+[2026-01-23 19:30:00] Aha: Learning rate decay = coarse-to-fine search
+[2026-01-22 21:00:00] Orwell: "Never use a long word where a short one will do"
+```
+
+**[Deep-ML Daily Practice](https://github.com/Jaloch-glitch/deep_ML)** — building fluency, one problem at a time
+
+---
+
+### `> cat /proc/foundation`
+
+```
+MATHEMATICAL FOUNDATION
+════════════════════════════════════════════════════════════════════════
+
+Linear Algebra    MIT 18.06 (Strang)     ████████████████████░  7.5/8
+                  Not memorized — understood geometrically
+                  Column spaces, projections, four fundamental subspaces
+
+Calculus          Stewart + Thompson      ████████████████████   Complete
+                  Derivatives from limits, chain rule derived not memorized
+
+Probability       MIT 6.041              ████████████████░░░░   70%
+                  Just-in-time: learn when needed, not exhaustively
+
+════════════════════════════════════════════════════════════════════════
+              Foundation before frameworks. Always.
 ════════════════════════════════════════════════════════════════════════
 ```
 
 ---
 
-### `> tail -f /var/log/side_quests.log`
+### `> ls -la tools/`
 
 ```
-[2026-01-25 01:30:42] Solved: Matrix transformation T⁻¹AS
-[2026-01-24 23:15:00] Learned: Why matrices must be invertible (det ≠ 0)
-[2026-01-24 20:00:00] Reading: Kafka - paranoia as structure (compliance parallels)
-[2026-01-23 19:30:00] Aha moment: Learning rate decay isn't magic, it's coarse-to-fine
-[2026-01-22 21:00:00] Quote: "Never use a long word where a short one will do" - Orwell
-```
-
-**[Deep-ML Daily Practice](https://github.com/Jaloch-glitch/deep_ML)** — 14+ problems and counting
-
----
-
-### `> ls -la skills/`
-
-```
-drwxr-xr-x  languages/
-    ├── python        [####################]  100%   Primary weapon
-    ├── javascript    [################----]   80%   Full-stack work
-    ├── typescript    [############--------]   60%   Growing
-    ├── groovy        [################----]   80%   Collibra workflows
-    └── sql           [################----]   80%   Data wrangling
-
 drwxr-xr-x  ml_stack/
-    ├── pytorch       [################----]   80%   Building from scratch
-    ├── numpy         [####################]  100%   The sandwich pattern
-    ├── pandas        [################----]   80%   Data manipulation
-    └── jupyter       [################----]   80%   Interactive dev
+    ├── numpy         ████████████████████   The foundation — I think in arrays
+    ├── pytorch       ████████████████░░░░   Building up, not importing blindly
+    ├── pandas        ████████████████░░░░   Data wrangling
+    └── jupyter       ████████████████░░░░   Interactive exploration
+
+drwxr-xr-x  languages/
+    ├── python        ████████████████████   Primary weapon
+    ├── javascript    ████████████████░░░░   Full-stack when needed
+    ├── groovy        ████████████████░░░░   Collibra workflows
+    └── sql           ████████████████░░░░   Data extraction
 
 drwxr-xr-x  enterprise/
-    ├── infosec_compliance [####################]  100%   Security & compliance
-    ├── it_asset_mgmt      [####################]  100%   Asset lifecycle
-    ├── collibra           [####################]  100%   Data governance guru
-    ├── sap_datasphere     [################----]   80%   Data warehousing & modeling
-    ├── sap_analytics      [################----]   80%   SAC stories & dashboards
-    ├── databricks         [################----]   80%   Big data analytics
-    └── risk_frameworks    [################----]   80%   ISO, SOC2, GDPR
+    ├── collibra      ████████████████████   25+ production workflows
+    ├── sap_datasphere████████████████░░░░   Data warehousing
+    ├── databricks    ████████████████░░░░   Big data
+    └── compliance    ████████████████████   ISO, SOC2, GDPR
 ```
 
 ---
@@ -158,26 +211,29 @@ drwxr-xr-x  enterprise/
 
 ---
 
-### `> cat /etc/felix/learning_protocol.conf`
+### `> cat /etc/felix/method.conf`
 
 ```ini
 [philosophy]
+core = "What I cannot create, I do not understand"
 approach = "first_principles"
-motto = "If you can't implement it, you don't understand it"
 questions = "why > how"
 
 [method]
-step_1 = "Watch the lecture"
-step_2 = "Close the video"
-step_3 = "Implement from memory"
-step_4 = "Get stuck"
-step_5 = "Ask 'why does this work?' not 'how do I fix this?'"
-step_6 = "Rebuild until it clicks"
+step_1 = "Encounter the problem"
+step_2 = "Resist the urge to Google"
+step_3 = "Derive it myself (pen + paper)"
+step_4 = "Implement from understanding"
+step_5 = "Validate against known implementations"
+step_6 = "Rebuild from memory tomorrow"
 
-[goal]
-short_term = "Understand every line of makemore"
-long_term = "Build GPT from scratch and actually get it"
-ultimate = "Understand so deeply I could teach a 5-year-old"
+[anti-patterns]
+reject = ["tutorial-following", "copy-paste", "it-works-ship-it"]
+embrace = ["confusion", "being stuck", "productive struggle"]
+
+[timeline]
+patience = "multi-year"
+motto = "Precept upon precept, line upon line"
 ```
 
 ---
@@ -191,10 +247,10 @@ ultimate = "Understand so deeply I could teach a 5-year-old"
 ║   ─────────────────────────────────────────────────────────────────────   ║
 ║   Email:     jalochglitch@gmail.com                                       ║
 ║   GitHub:    github.com/Jaloch-glitch                                     ║
-║   Location:  Germany (Kenyan roots)                                       ║
+║   Location:  Germany                                                      ║
 ║   Timezone:  CET (UTC+1)                                                  ║
 ║                                                                           ║
-║   Open to:   ML collaborations • Enterprise projects • Hard problems      ║
+║   Open to:   ML collaborations • Hard problems • First-principles work    ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -205,10 +261,8 @@ ultimate = "Understand so deeply I could teach a 5-year-old"
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  "The best way to predict the future is to create it." — Peter Drucker │
+│       "What I cannot create, I do not understand." — Feynman            │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
-
-**EOF**
 
 </div>
