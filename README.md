@@ -258,7 +258,6 @@ step_2 = "Resist the urge to Google"
 step_3 = "Derive it myself (pen + paper)"
 step_4 = "Implement from understanding"
 step_5 = "Validate against known implementations"
-step_6 = "Rebuild from memory tomorrow"
 
 [anti-patterns]
 reject = ["tutorial-following", "copy-paste", "it-works-ship-it"]
