@@ -83,15 +83,15 @@ class Felix:
 MISSION PROGRESS
 ════════════════════════════════════════════════════════════════════════
 
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░░░░░░░░░░░░░] 57% ████▌
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░] 78% ████████▌
 
 Part 1  [████] DONE     Micrograd ─────────── Autograd from first principles
 Part 2  [████] DONE     Makemore ──────────── Bigram language model
 Part 3  [████] DONE     Makemore 2 ────────── MLP with embeddings
 Part 4  [████] DONE     Makemore 3 ────────── Activations & gradients
-Part 5  [▓▓░░] ACTIVE   BatchNorm ─────────── Normalizing activations
-Part 6  [░░░░] QUEUED   Wavenet ───────────── Dilated convolutions
-Part 7  [░░░░] QUEUED   GPT ───────────────── The endgame
+Part 5  [████] DONE     BatchNorm ─────────── Normalizing activations
+Part 6  [████] DONE     GPT ───────────────── 10.79M param transformer from scratch
+Part 7  [▓▓░░] ACTIVE   Advanced ──────────── Scaling and production patterns
 
 ════════════════════════════════════════════════════════════════════════
 ```
@@ -118,14 +118,55 @@ Actually:
 ### `> tail -f /var/log/recent.log`
 
 ```
-[2026-01-25 01:30:42] Solved: Matrix transformation T⁻¹AS (Deep-ML)
-[2026-01-24 23:15:00] Insight: Invertibility requires det ≠ 0 — geometry clicked
-[2026-01-24 20:00:00] Reading: Kafka — paranoia as structure
-[2026-01-23 19:30:00] Aha: Learning rate decay = coarse-to-fine search
-[2026-01-22 21:00:00] Orwell: "Never use a long word where a short one will do"
+[2026-07-14] Built: GPT from scratch — 10.79M params, trained 50 min on Shakespeare
+[2026-04-20] Built: Equipment failure LSTM — ablation study, class imbalance analysis
+[2026-03-20] Built: CIFAR-10 CNN — conv feature extraction, 72% on 10 classes
+[2026-03-17] Built: House price regression — Random Forest, R²=0.81 on California housing
+[2026-03-17] Built: Sentiment LSTM — full NLP pipeline from tokenizer to inference
+[2026-03-03] Built: MNIST feedforward — 98.5% accuracy, zero convolutions
+[2026-03-02] Built: Iris classifier — first production-pattern pipeline
 ```
 
 **[Deep-ML Daily Practice](https://github.com/Jaloch-glitch/deep_ML)** — building fluency, one problem at a time
+
+---
+
+### `> ls xx_models/ --show-progress`
+
+```
+ML MODEL PORTFOLIO  ─  14 models built
+════════════════════════════════════════════════════════════════════════
+
+CLASSIFICATION
+──────────────
+01  iris_classifier           RandomForest            93.3% accuracy
+02  mnist_classification      Feedforward NN          98.5% accuracy
+06  image_classification_cnn  CNN (CIFAR-10)          72.5% accuracy
+07  transfer_learning         (in progress)
+08  object_detection_R-CNN    (in progress)
+10  image_classification_v2   (in progress)
+11  xray_pneumonia            (in progress)
+
+REGRESSION
+──────────
+04  house_price_prediction    RandomForest            R² = 0.81
+
+NLP / SEQUENCE
+──────────────
+03  sentiment_analysis_imdb   LSTM                    custom tokenizer
+05  stock_price_prediction    (in progress)
+14  gpt_from_scratch          GPT decoder             10.79M params
+
+ANOMALY / TIME-SERIES
+──────────────────────
+09  credit_card_fraud         (in progress)
+12  equipment_failure         LSTM + ablation         98% acc, F1 analysis
+13  log_anomaly_detection     (in progress)
+
+════════════════════════════════════════════════════════════════════════
+                 Goal: 30 models, top 1% ML engineer by Dec 2026
+════════════════════════════════════════════════════════════════════════
+```
 
 ---
 
@@ -157,7 +198,7 @@ Probability       MIT 6.041              █████████████
 ```
 drwxr-xr-x  ml_stack/
     ├── numpy         ████████████████████   The foundation — I think in arrays
-    ├── pytorch       ████████████████░░░░   Building up, not importing blindly
+    ├── pytorch       ██████████████████░░   Feedforward, CNN, RNN, LSTM, GPT
     ├── pandas        ████████████████░░░░   Data wrangling
     └── jupyter       ████████████████░░░░   Interactive exploration
 
@@ -180,18 +221,18 @@ drwxr-xr-x  enterprise/
 
 <div align="center">
 
-<a href="https://github.com/Jaloch-glitch/micrograd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=micrograd&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
+<a href="https://github.com/Jaloch-glitch/gpt_from_scratch">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=gpt_from_scratch&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
 </a>
-<a href="https://github.com/Jaloch-glitch/makemore_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=makemore_3&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
+<a href="https://github.com/Jaloch-glitch/equipment_failure_prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=equipment_failure_prediction&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
 </a>
 
-<a href="https://github.com/Jaloch-glitch/deep_ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=deep_ML&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
+<a href="https://github.com/Jaloch-glitch/image_classification_cnn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=image_classification_cnn&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
 </a>
-<a href="https://github.com/Jaloch-glitch/claude_proxy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=claude_proxy&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
+<a href="https://github.com/Jaloch-glitch/micrograd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=micrograd&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
 </a>
 
 </div>
