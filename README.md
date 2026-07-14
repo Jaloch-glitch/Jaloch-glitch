@@ -75,7 +75,6 @@ class Felix:
      Loaded: loaded (/karpathy/nn-zero-to-hero; enabled)
      Active: active (running) since 2024
        Docs: https://youtube.com/@AndrejKarpathy
-    Process: implementing from memory after each video
      Memory: matrix multiplications and chain rules
 ```
 
@@ -104,11 +103,10 @@ Not: watched the video
 Not: copied the code
 
 Actually:
-├── Implemented from scratch without looking
+├── Implemented from scratch
 ├── Derived the math by hand (pen + paper)
 ├── Validated against production frameworks
-├── Can explain it to someone else
-└── Can rebuild it tomorrow from memory
+└── Can explain it to someone else
 ```
 
 </details>
