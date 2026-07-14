@@ -215,23 +215,19 @@ drwxr-xr-x  enterprise/
 
 ### `> tree projects/ --highlights`
 
-<div align="center">
+```
+★  gpt_from_scratch          10.79M param GPT decoder — attention derived from scratch
+   github.com/Jaloch-glitch/gpt_from_scratch
 
-<a href="https://github.com/Jaloch-glitch/gpt_from_scratch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=gpt_from_scratch&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
-</a>
-<a href="https://github.com/Jaloch-glitch/equipment_failure_prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=equipment_failure_prediction&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
-</a>
+★  equipment_failure_prediction   LSTM on sensor time-series + ablation study
+   github.com/Jaloch-glitch/equipment_failure_prediction
 
-<a href="https://github.com/Jaloch-glitch/image_classification_cnn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=image_classification_cnn&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
-</a>
-<a href="https://github.com/Jaloch-glitch/micrograd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaloch-glitch&repo=micrograd&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d"/>
-</a>
+★  image_classification_cnn  CIFAR-10 CNN — conv feature extraction, 72.5% on 10 classes
+   github.com/Jaloch-glitch/image_classification_cnn
 
-</div>
+★  micrograd                 Autograd engine from first principles
+   github.com/Jaloch-glitch/micrograd
+```
 
 ---
 
