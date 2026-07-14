@@ -142,29 +142,27 @@ CLASSIFICATION
 01  iris_classifier           RandomForest            93.3% accuracy
 02  mnist_classification      Feedforward NN          98.5% accuracy
 06  image_classification_cnn  CNN (CIFAR-10)          72.5% accuracy
-07  transfer_learning         (in progress)
-08  object_detection_R-CNN    (in progress)
-10  image_classification_v2   (in progress)
-11  xray_pneumonia            (in progress)
+07  transfer_learning         ResNet18 fine-tuned     40.6% accuracy
+08  object_detection_R-CNN    Faster R-CNN            COCO pre-trained
+10  image_classification_v2   CNN (Fashion MNIST)     91.1% accuracy
+11  xray_pneumonia            CNN binary              77.2% acc, F1 0.84
 
 REGRESSION
 ──────────
 04  house_price_prediction    RandomForest            R² = 0.81
+05  stock_price_prediction    LSTM time-series        RMSE $77.93
 
 NLP / SEQUENCE
 ──────────────
 03  sentiment_analysis_imdb   LSTM                    custom tokenizer
-05  stock_price_prediction    (in progress)
 14  gpt_from_scratch          GPT decoder             10.79M params
 
 ANOMALY / TIME-SERIES
 ──────────────────────
-09  credit_card_fraud         (in progress)
+09  credit_card_fraud         MLP + class weights     AUC 0.962, 82.4% recall
 12  equipment_failure         LSTM + ablation         98% acc, F1 analysis
-13  log_anomaly_detection     (in progress)
+13  log_anomaly_detection     RNN autoencoder         reconstruction error
 
-════════════════════════════════════════════════════════════════════════
-                 Goal: 30 models, top 1% ML engineer by Dec 2026
 ════════════════════════════════════════════════════════════════════════
 ```
 
